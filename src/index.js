@@ -9,7 +9,9 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 /*Browser Router uses the HTML5 history API(pushState, replaceState, 
 and the popstate event) to keep our UI in sync with the URL. */
 root.render(
-    <BrowserRouter>
+    <React.StrictMode>
+      <BrowserRouter>
         <App />
-    </BrowserRouter>
-);
+      </BrowserRouter>
+    </React.StrictMode>,
+  );

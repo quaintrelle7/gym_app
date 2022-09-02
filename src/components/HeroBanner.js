@@ -1,6 +1,6 @@
 import React from 'react'
 //Button is button from html but here it has javascript properties
-import { Box, Stack, Typography, Button } from '@mui/material';
+import { Box, Stack, Typography } from '@mui/material';
 //importing image, after going down and placing
 //it, in the img src ref
 import HeroBannerImage from '../assets/images/banner.png'
