@@ -2,7 +2,7 @@
   "name": "gym_app",
   "version": "0.1.0",
   "homepage": "https://Hurrachi.github.io/gym_app",
-  "private": true,
+  "private": true, 
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
