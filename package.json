@@ -1,7 +1,7 @@
 {
-  "name": "gym_exercises",
+  "name": "gym_app",
   "version": "0.1.0",
-  "homepage": "https://deviljhinn.github.io/gym_exercises",
+  "homepage": "https://deviljhinn.github.io/gym_app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
