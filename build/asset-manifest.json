@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gym-app/static/css/main.f45fd43b.css",
+    "main.js": "/gym-app/static/js/main.ae6c47d0.js",
+    "static/media/banner.png": "/gym-app/static/media/banner.e1a5dd046fb17c0b6878.png",
+    "static/media/Logo.gif": "/gym-app/static/media/Logo.aa1ffd62a687c0c31d1e.gif",
+    "static/media/gym.png": "/gym-app/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/gym-app/index.html",
+    "main.f45fd43b.css.map": "/gym-app/static/css/main.f45fd43b.css.map",
+    "main.ae6c47d0.js.map": "/gym-app/static/js/main.ae6c47d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f45fd43b.css",
+    "static/js/main.ae6c47d0.js"
+  ]
+}
